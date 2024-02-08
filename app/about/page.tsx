@@ -30,22 +30,9 @@ const AboutPage: React.FC = () => {
         </p>
       </div>
       <div className="mt-12">
-        <h2 className="text-2xl font-extrabold text-gray-900">Technologies</h2>
-        <p className="mt-4 text-lg text-gray-600">
-          Our projects leverage a comprehensive suite of technologies, including:
-          <ul className="list-disc pl-8 mt-2">
-            <li>App Services</li>
-            <li>Artificial Neural Networks</li>
-            <li>Azure Machine Learning</li>
-            <li>Medical Technology</li>
-            <li>Python</li>
-          </ul>
-        </p>
-      </div>
-      <div className="mt-12">
         <h2 className="text-2xl font-extrabold text-gray-900">Impact</h2>
         <p className="mt-4 text-lg text-gray-600">
-          The societal impact of Medmind Innovision's projects is profound. By focusing on early detection of rare diseases and preventive healthcare measures, we aim to alleviate the burden on healthcare systems, improve patient outcomes, and foster a proactive approach to health management.
+          The societal impact of Medmind Innovision projects is profound. By focusing on early detection of rare diseases and preventive healthcare measures, we aim to alleviate the burden on healthcare systems, improve patient outcomes, and foster a proactive approach to health management.
         </p>
       </div>
       <div className="mt-12">
