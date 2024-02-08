@@ -12,13 +12,13 @@ const AboutPage: React.FC = () => {
         </p>
       </div>
       <div className="mt-12">
-        <h2 className="text-2xl font-extrabold text-gray-900">Vision</h2>
+        <h2 className="text-2xl font-extrabold text-[#569199]">Vision</h2>
         <p className="mt-4 text-lg text-[#569199]">
           At Medmind Innovision, our vision extends beyond conventional medical practices. We envision a future where AI-driven solutions empower individuals to take proactive steps in managing their health and well-being. By leveraging the power of AI, we aim to enhance diagnostic accuracy, personalize treatment plans, and implement predictive analytics, ultimately fostering a healthier tomorrow for individuals and communities worldwide.
         </p>
       </div>
       <div className="mt-12">
-        <h2 className="text-2xl font-extrabold text-gray-900">Team</h2>
+        <h2 className="text-2xl font-extrabold text-[#569199]">Team</h2>
         <p className="mt-4 text-lg text-[#569199]">
           Our dynamic team comprises four exceptionally talented individuals, each bringing a unique set of skills and expertise to the table:
           <ul className="list-disc pl-8 mt-2">
@@ -30,13 +30,13 @@ const AboutPage: React.FC = () => {
         </p>
       </div>
       <div className="mt-12">
-        <h2 className="text-2xl font-extrabold text-gray-900">Impact</h2>
+        <h2 className="text-2xl font-extrabold text-[#569199]">Impact</h2>
         <p className="mt-4 text-lg text-[#569199]">
           The societal impact of Medmind Innovision projects is profound. By focusing on early detection of rare diseases and preventive healthcare measures, we aim to alleviate the burden on healthcare systems, improve patient outcomes, and foster a proactive approach to health management.
         </p>
       </div>
       <div className="mt-12">
-        <h2 className="text-2xl font-extrabold text-gray-900">Join Us</h2>
+        <h2 className="text-2xl font-extrabold text-[#569199]">Join Us</h2>
         <p className="mt-4 text-lg text-[#569199]">
           Join us on our transformative journey to redefine healthcare through innovation and technology. Together, we can make a meaningful impact on the lives of individuals and communities worldwide.
         </p>
