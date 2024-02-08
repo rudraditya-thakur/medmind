@@ -4,8 +4,8 @@ import React from 'react';
 
 const AboutPage: React.FC = () => {
   return (
-    <div className="max-w-4xl mx-auto py-8 px-4 sm:px-6 lg:px-8 mt-16">
-      <div className="text-center">
+    <div className="w-screen mx-auto py-8 px-4 sm:px-6 lg:px-8 mt-16">
+      <div className="text-left">
         <h1 className="text-3xl font-extrabold text-[#569199]">About Medmind Innovision</h1>
         <p className="mt-4 text-lg text-[#569199]">
           Medmind Innovision is a pioneering endeavor committed to revolutionizing healthcare through the strategic application of artificial intelligence (AI) and cutting-edge technologies. Our mission is to redefine the landscape of medical diagnostics, particularly in the early detection of rare diseases, to ensure timely interventions and improved patient outcomes.
