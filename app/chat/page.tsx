@@ -48,7 +48,7 @@ const Chat: React.FC = () => {
           onChange={(e) => setNewMessage(e.target.value)}
           onKeyPress={handleKeyPress}
           placeholder="Message MedMind"
-          className="w-[84%] md:w-[89%] lg:w-[92%] p-2 border border-gray-300 rounded"
+          className="w-[80%] md:w-[89%] lg:w-[92%] p-2 border border-gray-300 rounded"
         />
         <button
           onClick={handleSendMessage}

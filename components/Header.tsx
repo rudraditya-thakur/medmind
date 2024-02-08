@@ -51,7 +51,7 @@ const Header: React.FC = () => {
       <div className='w-full flex justify-center md:justify-between items-center p-4'>
         <Link href='/'>
           <h1 style={{ color: textColor }} className='text-[#569199] font-bold text-2xl cursor-pointer hidden md:flex'>
-            MedMinds Innovision
+            MedMind Innovision
           </h1>
         </Link>
         <ul className='flex flex-row'>
