@@ -4,7 +4,7 @@ import React from 'react';
 
 const AboutPage: React.FC = () => {
   return (
-    <div className="max-w-4xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
+    <div className="max-w-4xl mx-auto py-8 px-4 sm:px-6 lg:px-8 mt-16">
       <div className="text-center">
         <h1 className="text-3xl font-extrabold text-gray-900">About MedMind Innovision</h1>
         <p className="mt-4 text-lg text-gray-600">
